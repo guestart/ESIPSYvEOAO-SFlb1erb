@@ -6,9 +6,9 @@
 
 ## 📌 Hook
 
-Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle Specific Features once in your daily Oracle DBA (Computer Information Industry) work?
+Whether you've encountered impressed **`Pain Spots`** when dealing with Oracle **`Specific Features`** once in your daily Oracle DBA (Computer Information Industry) work?
 
-I think there exists plenty of Pain Spots particularly using the Materialized View and Virtual Column of Oracle Database. Here're impressed **`Top 11`** (for the **BEGINNER** and **INTERMEDIATE** level).
+I think there exists plenty of Pain Spots particularly using the **`Materialized View`** and **`Virtual Column`** of Oracle Database. Here're impressed **`Top 11`** (for the **BEGINNER** and **INTERMEDIATE** level).
 
 You're able to solve them entirely after finish learning the awesome curriculum (It's pretty **`cost-effective`** that you need **`pay $9`** only so that seeing the incredible 9 episodes).
 
