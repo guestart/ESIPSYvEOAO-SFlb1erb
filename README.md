@@ -42,11 +42,11 @@ Here's an image about the **extra 9 number of episodes** when you finished purch
 
 - **03. Why Oracle Force Refresh Kills Performance?** 💰🔥
 
-- **04. Oracle Fast Refresh 1200 To 45 Seconds!** 🎁✅
+- **04. Oracle Fast Refresh 1200 To 45 Seconds!** 💰🔥
 
 - **05. Silent Corruption After Data Pump Restores!** 💰🔥
 
-- **06. Why Oracle Ignores Your Materialized Views?** 💰🔥
+- **06. Why Oracle Ignores Your Materialized Views?** 🎁✅
   - Video: [Silent_Performance_Killer.mp4](https://guestart.github.io/ESIPSYvEOAO-SFlb1erb/06.Why-Oracle-Ignores-Your-Materialized-Views/Silent_Performance_Killer.mp4)
   - Slide Deck: [Monitoring_Oracle_MV_Staleness.pdf](https://guestart.github.io/ESIPSYvEOAO-SFlb1erb/06.Why-Oracle-Ignores-Your-Materialized-Views/Monitoring_Oracle_MV_Staleness.pdf)
   - Infographic: [Materialized_View_Staleness_Performance_Guide.png](https://guestart.github.io/ESIPSYvEOAO-SFlb1erb/06.Why-Oracle-Ignores-Your-Materialized-Views/Materialized_View_Staleness_Performance_Guide.png)
@@ -54,7 +54,7 @@ Here's an image about the **extra 9 number of episodes** when you finished purch
 
 - **07. Oracle Function Changes Cause Silent Corruption!** 💰🔥
 
-- **08. Solving ORA-54013 And Virtual Column Performance!** 🎁✅
+- **08. Solving ORA-54013 And Virtual Column Performance!** 💰🔥
 
 - **09. Oracle Virtual Column Before Trigger Failures!** 💰🔥
 
