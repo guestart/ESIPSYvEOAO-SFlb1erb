@@ -1,8 +1,6 @@
 # 🌟 Elegantly Solving Impressed Pain Spots You’ve Encountered Once About Oracle-Specific Features (11 episodes) 🌟
 
-![]()
-
-![]()
+![](https://guestart.github.io/ESIPSYvEOAO-SFlb1erb/OAFKC-MV-VC-I-01_11.png)
 
 ## 📌 Hook
 
@@ -20,7 +18,7 @@ I've built the promotional activity for the curriculum. In other words, there ha
 
 Here's an image about the **extra 9 number of episodes** when you finished purchasing this course.
 
-![]()
+![](https://guestart.github.io/ESIPSYvEOAO-SFlb1erb/ESIPSYvEOAO-SFlb1erb-paid-portion.png)
 
 ### Note:
 
